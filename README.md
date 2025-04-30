@@ -1,6 +1,3 @@
-Here's a simple `README.md` for your Password Manager application.
-
-````markdown
 # Password Manager
 
 A simple Password Manager built using Python and Tkinter. This application allows users to generate, store, and search for passwords securely. The passwords are stored in system environment variables, ensuring privacy and security.
